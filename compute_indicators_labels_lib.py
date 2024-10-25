@@ -8,8 +8,6 @@ from config import RUN as run_conf
 from multiprocessing import pool
 
 
-# https://stats.stackexchange.com/questions/312780/why-is-accuracy-not-the-best-measure-for-assessing-classification-models
-
 
 def preprocess_filename(params):
     filename, RUN = params
