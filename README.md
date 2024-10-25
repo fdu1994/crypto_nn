@@ -1,2 +1,2 @@
 # crypto_nn
-ROugh implementation of the paper "A profitable trading algorithm for cryptocurrencies using a Neural Network model"
+Rough implementation of the paper "A profitable trading algorithm for cryptocurrencies using a Neural Network model"
