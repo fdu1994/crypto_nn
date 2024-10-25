@@ -2,6 +2,8 @@
 Rough implementation of the paper "A profitable trading algorithm for cryptocurrencies using a Neural Network model"
 I partly took some of their code I found online and adjusted it for my project.
 
+To play around with the coinbase api and getting some of the timeseries data I used the scripts in the coinbase_api folder.
+
 The pipeline code is constituted by a series of scripts to run in sequence.
 
 - config.py: script configurations.
